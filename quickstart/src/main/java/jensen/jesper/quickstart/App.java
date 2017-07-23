@@ -8,5 +8,6 @@ public class App
     {
     	Gson gson = new Gson();
         System.out.println(gson.toJson("Hello World!") );
+        System.out.println(gson.toJson("Hello World!") );
     }
 }
